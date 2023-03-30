@@ -1,0 +1,18 @@
+.section {
+    background-color: #f7f7f7;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    display: flex;
+    margin: 12px 8px;
+}
+
+label {
+    margin-left: 2px;
+}
